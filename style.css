@@ -634,24 +634,24 @@ ul li:hover a{
 
 .mini-1{
     position: relative;
-    left: 320px;
-    top: 8px;
+    left: 290px;
+    top: 1px;
 }
 
 .mini-4{
     position: relative;
-    left: 320px;
+    left: 300px;
     bottom: 183px;
 }
 
 .mini-2{
     position: relative;
-    left: 20px;
+    left: 10px;
     bottom: 135px;
 }
 .mini-3{
     position: relative;
-    left: 20px;
+    left: 10px;
     bottom: 50px;
 }
 
