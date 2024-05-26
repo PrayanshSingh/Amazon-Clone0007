@@ -580,6 +580,7 @@ ul li:hover a{
 }
 .box-7{
     height: 550px;
+    width: 550px;
 }
 
 .box-img-6{
@@ -634,24 +635,24 @@ ul li:hover a{
 
 .mini-1{
     position: relative;
-    left: 290px;
+    left: 260px;
     top: 1px;
 }
 
 .mini-4{
     position: relative;
-    left: 300px;
+    left: 260px;
     bottom: 183px;
 }
 
 .mini-2{
     position: relative;
-    left: 10px;
+    left: 0px;
     bottom: 135px;
 }
 .mini-3{
     position: relative;
-    left: 10px;
+    left: 0px;
     bottom: 50px;
 }
 
